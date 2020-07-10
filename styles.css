@@ -1,0 +1,17 @@
+img{
+    width: 550px;
+    height: 550px;
+}
+h1{
+    color: purple;
+    display: flex;
+    justify-content: center;
+}
+p{
+    font-size: 25px;
+}
+.links{
+    display: inline-block;
+    padding: 5px;
+    list-style: none;
+}
